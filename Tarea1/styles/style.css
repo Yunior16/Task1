@@ -1,0 +1,102 @@
+
+.topnav {  
+   margin-left: 30px;
+   margin-right: 30px;
+display: flex; 
+justify-content: space-between;
+align-items: center;
+}
+
+.grupo1 { 
+   display:flex;
+   justify-content: center;   
+   align-items: center;
+   gap: 20px;
+}
+
+.grupo1 a {
+   color:black;
+   text-decoration: none;
+}
+
+.grupo1 .active {
+   color:blue;
+   text-decoration: underline;
+}
+.grupo2 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+   text-decoration: black;
+}
+
+.grupo2 a {
+   color:black;
+   text-decoration: none;
+}
+
+select {
+   scrollbar-arrow-color: blue;
+    color: #020ca0;
+    border: 1px solid #ccc;
+    border-style: hidden;
+    }
+
+button { 
+      color: white;
+      background-color: blue;
+      border: 0;
+      border-radius: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 10px;;
+    }
+
+.wilfredo {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.liam {
+   display: flex;
+   justify-content: center;
+   align-content: center center;
+}
+
+.sofie {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.actions { 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+}
+
+.cc {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color:blue;
+   
+}
+
+.trial {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: blue;
+   
+}
+
+.main {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
